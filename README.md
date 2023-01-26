@@ -1,6 +1,7 @@
 # Diabetes-Progression-Regression-models
 in this project our model predict the progression of diabetes in patients.
-Optimized Linear, Lasso, SVR and Random Forest Regressors using GridsearchCV to reach the best model.
+
+to reach the best model I used Linear, Lasso, SVR and Random Forest Regressors using GridsearchCV. 
 
 #Code and Resources Used
 
