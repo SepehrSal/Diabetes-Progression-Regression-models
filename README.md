@@ -33,7 +33,7 @@ I tried three different models and evaluated them using Root Mean Absolute Error
 I tried three different models:
 
 * Multiple Linear Regression 
-*Lasso Regression
+* Lasso Regression
 * SVR
 * Grid Search SVR
 * Random Forest
