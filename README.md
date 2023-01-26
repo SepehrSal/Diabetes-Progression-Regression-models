@@ -30,7 +30,7 @@ I tried three different models and evaluated them using Root Mean Absolute Error
 
 
 
-I tried three different models:
+I tried four different models:
 
 * Multiple Linear Regression 
 * Lasso Regression
