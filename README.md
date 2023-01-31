@@ -34,8 +34,7 @@ I tried four different models:
 
 * Multiple Linear Regression 
 * Lasso Regression
-* SVR
-* Grid Search SVR
+* SVR and Grid Search SVR
 * Random Forest
 
 
